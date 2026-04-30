@@ -111,6 +111,5 @@ https://dev.mysql.com/downloads/connector/j/
 ---
 
 👨‍💻 Author
-Hema Polasri
 
-Your Name
+Hema Polasri
